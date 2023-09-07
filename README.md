@@ -1,3 +1,9 @@
+Covered in this demo:
+- reactive forms
+- input validation and manipulation
+- ngx-mask
+- FormControl
+
 # Creditcard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
