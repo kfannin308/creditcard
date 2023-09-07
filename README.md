@@ -1,4 +1,4 @@
-##Covered in this demo:
+# Covered in this demo:
 - reactive forms
 - input validation and manipulation
 - ngx-mask
