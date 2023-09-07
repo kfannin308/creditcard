@@ -34,13 +34,17 @@ export class CardFormComponent implements OnInit {
   
   constructor() {
     console.log(this.cardForm.controls.name);
-   }
+  }
 
   ngOnInit(): void {
   }
 
   onSubmit() {
     console.log("Form was subitted");
+  }
+  onResetClick(){
+    console.log("Form was reset");
+    this.cardForm.reset();
   }
 
 }
